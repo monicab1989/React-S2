@@ -7,7 +7,9 @@
 @import './footer';
 @import './efectos';
 
-
+body{
+    overflow-x: hidden !important;
+}
 #containerFeatures{
     width: 700px;
 }

@@ -12060,6 +12060,10 @@ fieldset:disabled .btn {
   color: #FA5959;
 }
 
+#footer {
+  width: 100vw;
+}
+
 .form-control {
   width: 230px;
 }
@@ -12166,6 +12170,10 @@ a:hover {
 .containerBtnFooter .btn:hover {
   background-color: white;
   color: #FA5959;
+}
+
+body {
+  overflow-x: hidden !important;
 }
 
 #containerFeatures {
